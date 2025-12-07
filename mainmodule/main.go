@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "example/hello"
-	"example/hello/service1"
+	_ "example/circuitbreaker"
+	"example/circuitbreaker/service1"
 	"fmt"
 )
 
